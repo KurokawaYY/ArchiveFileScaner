@@ -1,5 +1,0 @@
-Archive Structure Scanner
-Version: 0.5.2
-Build date: 2025-10-20 14:14:20
-File: ArchScanner_v0.5.2_20251020.exe
-Size: 16644771 bytes
