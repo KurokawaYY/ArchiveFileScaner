@@ -1,0 +1,5 @@
+Archive Structure Scanner
+Version: 0.5.1
+Build date: 2025-10-20 13:02:36
+File: ArchiveStructureScanner_v0.5.1_20251020.exe
+Size: 16528030 bytes
